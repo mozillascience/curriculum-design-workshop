@@ -6,7 +6,7 @@
 
 **Time required:** This is a 1 to 1.5 hour in-person workshop
 
-** Principles: **
+**Principles:**
 * creative idea generation
 * collaboration
 * user-centered design
