@@ -51,6 +51,7 @@ An outcome is the result of the activity-- it could be an understanding, a take-
     * Then a discussion/decision together on goals (4 mins) *Be sure to reflect on audience motivations/affinities as well as challenges as you consider your outcomes.*
     
 9. **FILL IN YOUR MATRIX** (2 mins) mix and match verbs/adjectives, forms, durations and outcomes.
+![matrix](https://github.com/mozillascience/curriculum-design-workshop/blob/master/images/Screen%20Shot%202016-10-08%20at%208.49.26%20AM.png)
 10. **DESCRIBE YOUR ACTIVITY** using wording from the matrix. (2mins)
 	* Example: In this activity, learners will understand women’s contribution to science by discovering a particular scientist, exploring and summarizing her work, and sharing it online as a podcast. This activity takes approximately 3 hours and is appropriate for 8th and 9th graders.
 	* Example: In this activity, learners will understand how climate affects them and other living things differently, by researching, writing and drawing to create an almanac for their area/town for the past year (or month). 
