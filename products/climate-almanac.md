@@ -1,5 +1,6 @@
 # Local Climate Almanac
 ![alt text](https://media.mnn.com/assets/images/2012/09/FarmersAlmanac_m_0918.jpg.560x0_q80_crop-smart.jpg "Almanac")
+
 In this activity, learners will understand how climate affects them and other living things differently, by researching, writing and drawing to create an almanac for their area/town for the past year (or month). 
 
 ## Materials: 
