@@ -13,4 +13,11 @@
 * rapid prototyping
 * working open
 
-These materials were created by Julia Vallera and Zannah Marsh of Mozilla, with help and feedback from members of the Mozilla community.  Please help us improve these materials-- check out our contributor guidelines and issues, and pitch in!
+##Finding the files-- what's where?
+
+* For instructions and materials needed to run the workshop and create curriculum, see the ["instructions" folder](https://github.com/mozillascience/curriculum-design-workshop/instructions). 
+* For materials created with the workshop format that are available for you to use and remix for your learners, see the ["products" folder](https://github.com/mozillascience/curriculum-design-workshop/products). 
+* For discussions and comments on this project and materials, see the [issue tracker]](https://github.com/mozillascience/curriculum-design-workshop/issues). 
+* For information on how to contribute to this project, see our [contributor guidelines](https://github.com/mozillascience/curriculum-design-workshop/CONTRIBUTING.md). 
+
+These materials were created by Julia Vallera and Zannah Marsh of Mozilla, with help and feedback from members of the Mozilla community.  Please contribute to help us improve these materials and expand our collection!
