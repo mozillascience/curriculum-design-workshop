@@ -1,11 +1,12 @@
 # Local Climate Almanac
 ![alt text](https://media.mnn.com/assets/images/2012/09/FarmersAlmanac_m_0918.jpg.560x0_q80_crop-smart.jpg "Almanac")
 
+##Summary
 In this activity, learners will understand how climate affects them and other living things differently, by researching, writing and drawing to create an almanac for their area/town for the past year (or month). 
 
 ## Materials: 
 * paper
-* book construction
+* book construction materials
 * drawing supplies
 * collage materials
 * clipboards
@@ -20,10 +21,12 @@ In this activity, learners will understand how climate affects them and other li
 ## Background/ Intro
 Introduce what an almanac is, how it is made, why it is used and who uses it. 
 
-> **Key Concept 1:** the record of change/predictions of change of an environment that you know and live in, based on observations
+**Key Concept 1:** the record of change/predictions of change of an environment that you know and live in, based on observations. 
+
 **Question:** how would you use an almanac today? 
 
-> **Key Concept 2:** climate, the usual conditions and weather in an area over a long period of time
+**Key Concept 2:** climate, the usual conditions and weather in an area over a long period of time 
+
 **Question:** How is climate related to weather and environment? How do we know about climate? What data or observations can we make? How can we document our local climate? 
 
 ## Glossary
