@@ -2,7 +2,7 @@
 
 If you or your participants are having trouble of thinking of varied verbs, adjectives, or forms, you can throw some WILD CARDS into the mix! These are notecards with some thought-provoking but also relevant words on them that can help you generate some more creative results in your matrix. For the first iteration of this workshop, we wrote words on the back of color-coded notecards (colors related to the three categories: verbs, adjectives, forms). 
 
-![wild cards]()
+![wild cards](https://github.com/mozillascience/curriculum-design-workshop/blob/master/images/45324.jpg)
 
 Here is a list of some of the WILD CARDS we came up with:
 
