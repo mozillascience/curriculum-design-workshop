@@ -45,12 +45,12 @@ Introduce what an almanac is, how it is made, why it is used and who uses it.
 4. Fill in a section of the book
   * Go outside to observe the environmnet
   * Illustrate, write and document what you see
-  * Interview others and compare observations
-  OR 
+  * Interview others and compare observations  
+  **OR**
   * Research trends and find other data, for example, go online, check weather and temperature 
   * Refer to local nature organizations, natural history or science museum, garden or park service, etc to learn about what is happening in the environment 
-  * summarize your research and add it to your almanac
-  OR  
+  * summarize your research and add it to your almanac  
+  **OR**  
   * Pick a season and write a story about it
   * What happens in your life during this season? 
   * What foods do you eat? 
