@@ -4,7 +4,7 @@
 
 **In this workshop, you'll work collaboratively to quickly conceptualize and design engaging, varied, user-centered learning experiences.**  We’ll start from a spark of an idea and and use information about our audience and a set of constraints to come up with potential iterations, then narrow options to create a very rapid, very rough prototype. Workshop products will be documented and shared online, here, in this repository.
 
-**Time required:** This is a 1 to 1.5 hour in-person workshop
+**Time required:** This is a 1 to 1.5 hour in-person workshop, requiring at least 2 or 3 participants.
 
 **Principles:**
 * creative idea generation
