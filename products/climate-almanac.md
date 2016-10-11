@@ -45,7 +45,7 @@ Introduce what an almanac is, how it is made, why it is used and who uses it.
   * Be sure to create enough pages!
 3. Assemble book
 4. Fill in a section of the book
-  * Go outside to observe the environmnet
+  * Go outside to observe the environment
   * Illustrate, write and document what you see
   * Interview others and compare observations  
   **OR**
