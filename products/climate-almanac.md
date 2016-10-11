@@ -1,5 +1,6 @@
 # Local Climate Almanac
 by Zannah Marsh & Julia Vallera, Mozilla 
+
 ![alt text](https://media.mnn.com/assets/images/2012/09/FarmersAlmanac_m_0918.jpg.560x0_q80_crop-smart.jpg "Almanac")
 
 ##Summary
