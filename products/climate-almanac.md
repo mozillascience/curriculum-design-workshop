@@ -2,7 +2,7 @@
 ![alt text](https://media.mnn.com/assets/images/2012/09/FarmersAlmanac_m_0918.jpg.560x0_q80_crop-smart.jpg "Almanac")
 
 ##Summary
-In this activity, learners will understand how climate affects them and other living things differently, by researching, writing and drawing to create an almanac for their area/town for the past year (or month). 
+In this activity, learners will understand how climate affects them and other living things differently, by researching, writing and drawing to create an almanac for their area/town for a year (or month). 
 
 ## Materials: 
 * paper
@@ -13,7 +13,7 @@ In this activity, learners will understand how climate affects them and other li
 * access to internet
 
 ## Time to Complete: 
-2 hrs +
+2 hrs + to assemble blank almanac, periodic 1 hour sessions to add content.
 
 ## Audience: 
 8-9 year olds
@@ -38,22 +38,24 @@ Introduce what an almanac is, how it is made, why it is used and who uses it.
 ## Steps
 1. Split into small groups
 2. Create/design a book structure
-  1. Cut, fold and/or sew/staple
-  2. Create back, front, inside covers, blank pages or templates
-  3. Be sure to create enough pages!
+  * Cut, fold and/or sew/staple
+  * Create back, front, inside covers, blank pages or templates
+  * Be sure to create enough pages!
 3. Assemble book
 4. Fill in a section of the book
-  1. Go outside to observe the environmnet
-  2. Illustrate, write and document what you see
-5. Interview others and compare observations
-6. Research trends and find other data
-  1. Go online, check weather and temperature 
-  2. Refer to local nature organizations, museums, gardens, etc to learn about what is happening in the environment 
-7. Pick a season and write a story about it
-  1. What happens in your life during this season? 
-  2. What foods do you eat? 
-  3. What do you wear? 
-  4. How do you get around?
-  5. How do you play? 
-  6. How does the climate effect these activities?
-8. Repeat step 3 periodically throughout the year, to build out your almanac.
+  * Go outside to observe the environmnet
+  * Illustrate, write and document what you see
+  * Interview others and compare observations
+  OR 
+  * Research trends and find other data, for example, go online, check weather and temperature 
+  * Refer to local nature organizations, natural history or science museum, garden or park service, etc to learn about what is happening in the environment 
+  * summarize your research and add it to your almanac
+  OR  
+  * Pick a season and write a story about it
+  * What happens in your life during this season? 
+  * What foods do you eat? 
+  * What do you wear? 
+  * How do you get around?
+  * How do you play? 
+  * How does the climate effect these activities?
+5. Repeat step 3 periodically throughout the year, to build out your almanac.
