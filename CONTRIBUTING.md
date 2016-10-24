@@ -3,6 +3,7 @@
 Welcome! Thanks for your interest in this Curriculum Design Workshop and format! We're really excited that you're here. Anyone can contribute to this project, and we hope you will pitch in!
 
 **Ground Rules for Collaboration**
+
 During the first run of this workshop, we asked participants to come up with ground rules for working together. While it's a bit different when collaborating on-line, these guidelines are a great starting point for building positive working realtionships:
 
 * be an active listener, pay careful and respectful attention to ideas and comments from other members of the community
