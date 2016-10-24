@@ -2,6 +2,14 @@
 
 Welcome! Thanks for your interest in this Curriculum Design Workshop and format! We're really excited that you're here. Anyone can contribute to this project, and we hope you will pitch in!
 
+**Ground Rules for Collaboration**
+During the first run of this workshop, we asked participants to come up with ground rules for working together. While it's a bit different when collaborating on-line, these guidelines are a great starting point for building positive working realtionships:
+
+* be an active listener, pay careful and respectful attention to ideas and comments from other members of the community
+* say what you mean-- it's OK to be critical or "hard" on ideas, but be sure to be gentle and respectful or "soft" on people
+* if you usually comment or talk, listen more, and give space for others to have a voice. 
+* if you are usually quiet or wait for others to take the lead, try commmenting or chiming in a bit more. 
+
 **We'd love to have your help in:**
 
 1. generating materials using this framework, and adding them to our collection ([for more info, see this issue](https://github.com/mozillascience/curriculum-design-workshop/issues/2))
